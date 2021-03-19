@@ -1,1 +1,1 @@
-# ERC20-MarvelToken
+# Coin

@@ -1,0 +1,9 @@
+{
+  "language": "",
+  "main": "./contracts/Contract.sol",
+  "deploy": "./build/contracts/Contract.json",
+  "compilers": {
+    "truffle": "v5.1.61",
+    "solc": "0.7.6"
+  }
+}
