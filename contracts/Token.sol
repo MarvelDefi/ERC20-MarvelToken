@@ -1,4 +1,4 @@
-pragma solidity ^0.7.6;
+pragma solidity >=0.4.25 <0.7.0;
 
 import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.4.0/contracts/token/ERC20/ERC20.sol';
 import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.4.0/contracts/math/SafeMath.sol';
